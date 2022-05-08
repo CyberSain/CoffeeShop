@@ -1,0 +1,200 @@
+
+html
+{ height: 100%;}
+
+#name h1{
+    text-align:left;
+    font-size:20px;
+}
+#menu {
+    background-image: url('images/cupsteam2.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 150px;
+  }
+#name img{margin:0 0 0 60px;
+         width: 20%;
+}
+
+body
+{ font: normal  'trebuchet ms', arial, sans-serif;
+  background-color: black;
+  color:white;
+}
+
+form{letter-spacing: 0.1em;
+    font: normal 100% arial, sans-serif;
+
+    font-size: 20px;
+}
+
+#locat{ text-align: center;
+        letter-spacing: 0.1em;
+        font: normal 100% arial, sans-serif;
+        font-size: 20px;
+        padding:50px;
+        margin:10px;
+}
+#map img{   
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 70%;
+}
+
+#menubar
+{ width: cover;
+  height: cover;
+
+  padding:0;
+  
+} 
+
+table{padding: 0 0 0px 0; 
+    letter-spacing: 0.1em;
+    font: normal 100% arial, sans-serif;
+    border: black;
+
+
+}
+
+
+time{ letter-spacing: 0.1em;
+    font: normal 100% arial, sans-serif;
+}
+
+#drinks table {
+    letter-spacing: 0.1em;
+    font: normal 100% arial, sans-serif;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 80%;
+    border: none;
+  }
+  
+  
+  #drinks th, td {
+      font-size: 20px;
+    text-align: center;
+    padding: 10px;
+   
+  }
+  
+  #drinks th{
+    width:50%;
+  }
+  
+  
+  #drinks img{ width: 50%;
+                position:left;
+
+  }
+
+
+ul#menu, ul#menu li
+{ float: left;
+  margin: 0; 
+  padding: 0;}
+
+ul#menu li
+{ list-style: none;}
+
+ul#menu li a
+{ letter-spacing: 0.1em;
+  font: normal 100% arial, sans-serif;
+  font-size:19px;
+  display: block; 
+  float: left; 
+  height: 30px;
+  padding: 20px 0px 20px 58px;
+  
+
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+ 
+} 
+
+
+ul#menu li, ul#menu li.selected a, ul#menu li.selected
+{ color: brown;
+ 
+}
+
+
+p
+{ padding: 0 0 7px 0;
+  line-height: 0em;
+}
+
+#gif {
+    float:left;
+    width: 40%;
+    padding:10px;
+    
+
+}
+   #abo p
+  { letter-spacing: 0.1em;
+      font: normal 100% arial, sans-serif;
+      font-size: 20px;
+      padding: 0 0 7px 0;
+        line-height: 2em;
+        padding:50px;
+        margin:10px;
+}
+	
+
+h1{padding:10px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    font: normal 100% arial, sans-serif;
+    font-size: 20px;
+}
+
+
+font
+ {font: normal.80em 'trebuchet ms', arial, sans-serif;}  
+  
+ul
+{ margin: 2px 0 22px 17px;}
+
+ul li
+{ list-style-type: circle;
+  margin: 0 0 6px 0; 
+  padding: 0 0 4px 5px;
+}
+
+ol
+{ margin: 8px 0 22px 20px;}
+
+ol li
+{ margin: 0 0 11px 0;}
+
+thead { background-image:url('images/backbl2.jpg')}
+
+#site_content
+{ width: 930px;
+  overflow: auto;
+  margin: 0 auto 0 auto;
+  padding: 0px 20px 20px 80px;
+  background-image: url('images/broback3.jpg') ;
+  background-size: cover;
+  background-repeat:no-repeat;
+  
+} 
+
+  #content
+  { text-align: left;
+    padding: 0;
+}
+  
+#thumbs   { width: 192px;
+    height: 370px;
+    padding: 5px;
+    float: left; }
+#mainimg  { width: 289px;
+    padding: 5px;
+    float: left; }
+#imgCover { height: 373px; }
