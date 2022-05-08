@@ -1,2 +1,1 @@
-# CoffeeShop
-Coffee Shop Website
+[Coffee Shop Website](https://cybersain.github.io/CoffeeShop/)
